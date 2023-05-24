@@ -2,7 +2,7 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=prak-web-d',
+    'dsn' => 'mysql:host=localhost;dbname=prak_web_d',
     'username' => 'root',
     'password' => '',
     'charset' => 'utf8',
